@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e64cba89e77ba0bf4124.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qserial",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qserial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qserial-Debug-b9aab72223195e398888.json",
+					"name" : "qserial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qserial_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qserial_autogen-Debug-041fbb0b2b5dd27666bc.json",
+					"name" : "qserial_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qserial_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qserial_autogen_timestamp_deps-Debug-8cc54e4b6f12d52bb201.json",
+					"name" : "qserial_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/yangs/Documents/vscode_repo/qserial/qserial/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/yangs/Documents/vscode_repo/qserial/qserial"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
